@@ -14,7 +14,6 @@
                 "ingredients": [
                     "beef tenderloin",
                     "mushrooms",
-                    "mushrooms",
                     "prosciutto",
                     "puff pastry"
                 ],
@@ -95,7 +94,7 @@
         "chef": {
             "chef_name": "Ozge Tolga",
             "experience": "8 years",
-            "likes": 120000,
+            "likes": 110000,
             "recipes": 4,
             "chef_picture": "https://images.unsplash.com/photo-1611608822772-43a28a830759?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
         },
